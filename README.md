@@ -1,4 +1,4 @@
-# Web-Scrapper
+# Web-Scrapper Project
 
 1. Install Selenium Library
 2. Install Pandas
